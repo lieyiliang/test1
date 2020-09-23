@@ -25,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,6 +39,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="122" y="23" key="SettingsEditor" timestamp="1600884034328">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="122" y="23" key="SettingsEditor/0.23.1280.725@0.23.1280.725" timestamp="1600884034328" />
     <state x="230" y="125" key="Vcs.Push.Dialog.v2" timestamp="1600882602504">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
